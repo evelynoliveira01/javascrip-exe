@@ -1,0 +1,46 @@
+h1, h2{
+    color: rgb(245, 237, 237);
+    text-align: center;
+}
+h1{
+    text-transform: uppercase;
+}
+p{
+    text-align: justify;
+    color: blue;
+}
+.destaque{
+    background-color: brown;
+    color: aliceblue;
+    padding:  15px;
+    margin-bottom:20px;
+
+}
+#img-logo{
+    width: 50px;
+    margin: 5px;
+
+}
+nav li{
+    display: inline;
+    margin-left: 20px;
+    color: rgb(226, 90, 90);
+    font-weight: bold;
+    border:2px solid rgb(36, 43, 20) ;
+    padding:6px ;
+}
+nav{
+    float: right;
+}
+header{
+    background-color: rgb(172, 168, 164);
+}
+main{
+    margin: auto 9%;
+    color: white;
+   
+}
+body{
+    background-color: black;
+    color: write;
+}
